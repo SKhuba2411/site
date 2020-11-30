@@ -1,0 +1,45 @@
+.breadcrumb-div-about {
+    background-color: #EE4036;
+    height: 50px;
+}
+
+.breadcrumb-ph-about {
+    color: #ffffff;
+    font-family: roboto regular;
+    font-size: 22px;
+    padding: 15px 15px;
+}
+
+.item-img img {
+    width: 150px;
+}
+
+.item-img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #EE4036;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-category {
+    padding: 150px 50px;
+}
+
+.category-title {
+    color: #EE4036;
+    font-size: 22px;
+    font-family: roboto regular;
+}
+
+.category-ph {
+    color: #58595B;
+    font-size: 20px;
+    font-family: roboto regular;
+}
+
+.category-items {
+    display: flex;
+}
